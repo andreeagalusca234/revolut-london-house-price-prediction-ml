@@ -6,6 +6,9 @@ Built a machine learning–based decision system to identify undervalued assets 
 
 ![Predicted vs Actual](predicted_vs_actual.png)
 
+The model demonstrates strong predictive performance, with predictions closely aligned to actual values.  
+Most observations cluster tightly around the diagonal, indicating good generalisation, while variance increases for high-value properties, a common pattern in real-world housing data.
+
 ## Project Overview
 
 This project analyzes and predicts London house prices using machine learning, with a focus not only on model accuracy but on extracting actionable insights that can support real-world decision-making.
