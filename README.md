@@ -78,7 +78,7 @@ These metrics helped compare performance and select the most suitable model.
 
 ![Predicted vs Actual](predicted_vs_actual.png)
 
-📈 Key Insights
+## 📈 Key Insights
 
 Location (borough) is the strongest driver of house prices
 
