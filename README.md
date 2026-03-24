@@ -66,11 +66,16 @@ The dataset includes information on London properties, such as:
 
 Tested multiple machine learning models:
 
-- Linear Regression
+- Linear Regression (baseline)
 
 - Decision Tree
 
 - Random Forest
+
+- Gradient Boosting
+
+- Stacking Ensemble (final model — R² 0.806)
+
 
 ### 5. Model Evaluation
 
