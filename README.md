@@ -1,6 +1,6 @@
 ## 🏡 London House Price Prediction (Machine Learning) ##
 
-📌 Overview
+## 📌 Overview
 
 This project builds a machine learning model to predict house prices in London using property and location-based features. The objective is not only to generate accurate predictions, but also to understand the key factors that drive price variation across the market.
 
