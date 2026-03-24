@@ -1,5 +1,10 @@
 # 🏡 London House Price Prediction (Machine Learning)
 
+
+> 📎 [View 1-page project summary](report/revolut-london-house-price-prediction-ml.pdf)
+
+
+
 ## 📌 Overview
 
 This project builds a machine learning model to predict house prices in London using property and location-based features. The objective is not only to generate accurate predictions, but also to understand the key factors that drive price variation across the market.
