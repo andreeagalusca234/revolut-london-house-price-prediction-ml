@@ -1,4 +1,4 @@
-# 🏡 London House Price Prediction (Machine Learning) ##
+# 🏡 London House Price Prediction (Machine Learning)
 
 ## 📌 Overview
 
@@ -20,15 +20,15 @@ Demonstrate how data can support pricing and investment decisions
 
 ## 📊 Dataset
 
-The dataset includes information on London properties, such as:
+* The dataset includes information on London properties, such as:
 
-Location (borough)
+* Location (borough)
 
-Property size
+* Property size
 
-Number of rooms
+* Number of rooms
 
-Other structural and geographic features
+* Other structural and geographic features
 
 ## 🔍 Approach
 
@@ -112,7 +112,7 @@ Pricing algorithms
 
 Customer segmentation
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 Python
 
