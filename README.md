@@ -48,7 +48,7 @@ Encoded categorical variables
 
 Scaled and transformed features where necessary
 
-5. Feature Engineering
+4. Feature Engineering
 
 Selected key variables impacting price
 
@@ -56,7 +56,7 @@ Reduced noise and irrelevant features
 
 Improved model interpretability
 
-6. Model Development
+5. Model Development
 
 Tested multiple machine learning models:
 
@@ -66,7 +66,7 @@ Decision Tree
 
 Random Forest (if applicable)
 
-5. Model Evaluation
+6. Model Evaluation
 
 Models were evaluated using:
 
