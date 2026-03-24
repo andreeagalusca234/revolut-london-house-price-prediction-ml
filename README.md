@@ -32,7 +32,7 @@ Other structural and geographic features
 
 ## 🔍 Approach
 
-1. Exploratory Data Analysis (EDA)
+### 1. Exploratory Data Analysis (EDA)
 
 Analysed price distribution across boroughs
 
@@ -40,7 +40,7 @@ Identified trends, correlations, and outliers
 
 Evaluated missing values and data quality
 
-2. Data Preprocessing
+### 2. Data Preprocessing
 
 Handled missing values and inconsistencies
 
@@ -48,7 +48,7 @@ Encoded categorical variables
 
 Scaled and transformed features where necessary
 
-3. Feature Engineering
+### 3. Feature Engineering
 
 Selected key variables impacting price
 
@@ -56,7 +56,7 @@ Reduced noise and irrelevant features
 
 Improved model interpretability
 
-4. Model Development
+### 4. Model Development
 
 Tested multiple machine learning models:
 
@@ -66,7 +66,7 @@ Decision Tree
 
 Random Forest (if applicable)
 
-5. Model Evaluation
+### 5. Model Evaluation
 
 Models were evaluated using:
 
