@@ -4,7 +4,7 @@
 
 This project builds a machine learning model to predict house prices in London using property and location-based features. The objective is not only to generate accurate predictions, but also to understand the key factors that drive price variation across the market.
 
-🎯 Business Problem
+## 🎯 Business Problem
 
 Accurately pricing real estate assets is critical for buyers, sellers, investors, and financial institutions. Mispricing can lead to poor investment decisions or financial losses.
 
@@ -30,7 +30,7 @@ Number of rooms
 
 Other structural and geographic features
 
-🔍 Approach
+## 🔍 Approach
 
 1. Exploratory Data Analysis (EDA)
 
@@ -86,7 +86,7 @@ Property size and number of rooms significantly influence valuation
 
 Price distribution varies substantially across different areas of London
 
-🧠 Key Learnings
+## 🧠 Key Learnings
 
 Data preprocessing and feature selection are critical for model performance
 
@@ -94,7 +94,7 @@ Simpler models can perform well when relationships are mostly linear
 
 Interpreting results is as important as building the model
 
-🚀 Business Impact
+## 🚀 Business Impact
 
 This project demonstrates how machine learning can:
 
@@ -122,7 +122,7 @@ Scikit-learn
 
 Matplotlib / Seaborn
 
-🔮 Future Improvements
+## 🔮 Future Improvements
 
 Deploy the model as an API (Flask or FastAPI)
 
